@@ -6,3 +6,6 @@ dependencies:
   - jupyter
   - pandas
   - pandas-gbq
+  - tqdm
+  - seaborn
+  - plotly
