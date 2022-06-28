@@ -1,0 +1,8 @@
+name: mimic
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - jupyter
+  - pandas
+  - pandas-gbq
